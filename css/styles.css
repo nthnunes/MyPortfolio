@@ -1,0 +1,78 @@
+*{font-family: 'Source Sans Pro', sans-serif;}
+
+a {
+  color: #44B8FF;
+}
+
+a.nostyle {
+ text-decoration: none;
+ color: inherit;
+ cursor: auto;
+}
+ 
+.callout {
+  background: url('images/callout-bg-2.jpg') top center;
+  background-color: #9ea3a9;
+  text-align: center;
+  padding: 25px 0 75px 0;
+  color: #fff;
+  width: 100%;
+}
+
+.marketing {
+  background: url('images/content-bg.jpg') top center repeat-x;
+  background-color: #000;
+  padding: 40px 30px 75px 20px;
+  color: #fff;
+  margin-top: -50px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+}
+
+.featurette {
+  font-size: 17px;
+}
+
+.featurette h2 {
+  font-weight:200;
+  font-size: 28px;
+  margin: 0 0 5px 0;
+}
+
+.featurette h3 {
+  font-weight:200;
+  color: #ea2a2e;
+  font-size: 22px;
+  margin: 0 0 10px 0;
+}
+
+.featurette p {
+  font-weight: 200;
+  font-size: 14px;
+}
+
+
+
+.footer {
+  background-color: #2e3136;
+  border-top: 1px solid #989da4;
+  color: #cccccc;
+  padding: 20px 0;
+  font-size: 17px;
+}
+
+.footer a {
+  color: #ccc;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+  font-size: 13px;
+  font-weight: 200;
+}
+
+.footer-sub {
+  margin-bottom: 0;
+}
