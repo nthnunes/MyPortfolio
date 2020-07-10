@@ -11,13 +11,11 @@ a.nostyle {
 }
  
 .callout {
-  background: url('images/background.gif') top center;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
+  background: url('images/callout-bg-2.jpg') top center;
+  background-color: #9ea3a9;
   text-align: center;
   padding: 25px 0 75px 0;
+  color: #fff;
   width: 100%;
 }
 
